@@ -42,4 +42,9 @@ Let's connect! If you have any questions, suggestions, or just want to discuss D
 - Email: anandgadugin@gmail.com
 - LinkedIn: [Anandsg](https://www.linkedin.com/in/anand-gadagin-6a8a96184/)
 
+<<<<<<< HEAD
 Happy coding and happy learning 🧑‍💻👩‍💻
+=======
+Happy coding and happy learning!
+
+>>>>>>> 88e691eb43c08eaf2e8ce5ddcd7d6b8f61fcab4d
