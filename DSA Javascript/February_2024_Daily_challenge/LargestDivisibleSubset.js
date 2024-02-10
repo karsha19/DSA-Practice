@@ -16,7 +16,6 @@ var largestDivisibleSubset = function (nums) {
       }
     }
   }
-
   nums.sort((a, b) => a - b);
   helper(0, [], 1);
   return res;
