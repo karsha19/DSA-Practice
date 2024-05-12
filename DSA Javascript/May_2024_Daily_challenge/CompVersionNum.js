@@ -14,7 +14,7 @@ var compareVersion = function (version1, version2) {
       if (parts1[i] === undefined) {
         parts1[i] = "0";
       }
-      if (parts2[i] === undefined) {
+      if (parts2[i] === undefined) {  
         parts2[i] = "0";
       }
     }
