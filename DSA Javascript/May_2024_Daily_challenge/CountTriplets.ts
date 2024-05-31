@@ -18,3 +18,5 @@ function countTriplets(arr: number[]): number {
 
   return res;
 }
+
+
